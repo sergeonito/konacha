@@ -22,7 +22,7 @@ the asset pipeline and engines.}
 
   gem.add_dependency "railties", ">= 4.1", "< 6"
   gem.add_dependency "actionpack", ">= 4.1", "< 6"
-  gem.add_dependency "sprockets", ">= 2", "< 4"
+  gem.add_dependency "sprockets", ">= 3", "< 5"
   gem.add_dependency "sprockets-rails", ">= 2", "< 4"
   gem.add_dependency "capybara"
   gem.add_dependency "colorize"
